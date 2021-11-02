@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635763400 source:d:\szilárd\egyetem\tantárgyak\1. félév\programozás alapjai\c\gyakorlat\házi feladat\2\hazi_feladat_02_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
